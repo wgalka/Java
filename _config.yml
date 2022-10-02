@@ -14,7 +14,9 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 
-# theme: minima
+theme: minima
+minima:
+  skin: dark
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
