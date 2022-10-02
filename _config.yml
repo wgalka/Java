@@ -15,12 +15,13 @@ include:
 
 
 theme: minima
-header_pages:
-author:
-  name: kompotmalinowy
-  email: ""
+
 minima:
   skin: dark
+  header_pages:
+  author:
+    name: kompotmalinowy
+    email: ""
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
