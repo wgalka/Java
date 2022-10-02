@@ -19,4 +19,10 @@ kramdown:
 #   syntax_highlighter: coderay
   syntax_highlighter_opts:
 #     line_numbers: true
+    default_lang: csharp
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
 
