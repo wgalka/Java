@@ -25,7 +25,7 @@ Wymienić poznane operatory:
 ### Utworzyć projekt.
 Utworzyć projekt o nazwie lab1 a w nim plik `Main.java` o nastepującej zawartości
 
-```Java
+```java
 package com.company;
 public class Main {
 
