@@ -42,16 +42,17 @@ Do wypisywania łańcuchów znaków na ekranie służy funkcja: `System.out.prin
 Zmodyfikuj program i utwórz zmienną `name` przechowującą twoje imię. Wypisz wartość na ekranie za pomocą funckji `print()`.
 
 Prymitywne typy danych:
-| typ       | ilość bitów | minimum | maksimum |
-|-----------| ------------| --------|----------|
-|byte       |	8	      |-128     | 127	   |
-| short     |	16	      |-32,768  | 32,767   |
-| int       |	32        |-2,147,483,648 |  2,147,483,647 |
-| long      |	64	      | -2<sup>63</sup> | -2<sup>63</sup> - 1
-| float     |	32	      | - | -
-| double    |	64	      | - | -
-| char      |	16	      | - | -
-| boolean   |	1	      | –	    | –         |
+
+| typ       | ilość bitów | minimum         | maksimum              |
+|-----------| ------------| ----------------|-----------------------|
+| byte      | 8	          |-128             | 127	                |
+| short     | 16	      |-32,768          | 32,767                |
+| int       | 32          |-2,147,483,648   |  2,147,483,647        |
+| long      | 64	      | -2<sup>63</sup> | -2<sup>63</sup> - 1   |
+| float     | 32	      | -               | -                     |
+| double    | 64	      | -               | -                     |
+| char      | 16	      | -               | -                     |
+| boolean   | 1	          | –	            | –                     |
 
 Wrapery:
 - [String](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html)
