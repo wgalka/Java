@@ -13,6 +13,8 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
+
+theme: minima
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
