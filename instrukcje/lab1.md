@@ -63,15 +63,10 @@ Wrapery:
 - [Boolean](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html)
 - [Character](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Character.html)
 
-https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/package-summary.html
+[https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/package-summary.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/package-summary.html)
 
 Utwórz zmienne (nazwy zmiennych dynamicznych - camelCase) przechowujące rózne typy zmiennych. Wypisz wartości tych zmiennych oraz informacje na temat danego typu - np. maksymalna/minimalna wartość, w postaci:
 `"zmienna x = [wartość zmiennej]. Maksymalna wartość typu [typ] wynosi: [wartość], minimalna wartość: [wartość]"`
 
 
-
-
-
-
-
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html
+[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
