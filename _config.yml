@@ -12,3 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  kramdown:
+    syntax_highlighter: coderay
+    syntax_highlighter_opts:
+      line_numbers: table
+      bold_every: 5
