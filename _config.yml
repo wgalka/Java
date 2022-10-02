@@ -16,6 +16,9 @@ include:
 
 theme: minima
 header_pages:
+author:
+  name: kompotmalinowy
+  email: ""
 minima:
   skin: dark
 markdown: kramdown
