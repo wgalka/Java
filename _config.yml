@@ -16,7 +16,7 @@ include:
 
 theme: minima
 header_pages:
-    - lab1.md
+  - lab1.md
 minima:
   skin: dark
   social_links:
