@@ -19,7 +19,7 @@ theme: minima
 minima:
   skin: solarized
   header_pages:
-    lab1.md
+    - lab1.md
   author:
     name: kompotmalinowy
     email: ""
