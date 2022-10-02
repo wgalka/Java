@@ -15,5 +15,5 @@ include:
   kramdown:
     syntax_highlighter: coderay
     syntax_highlighter_opts:
-      line_numbers: table
+      line_numbers: true
       bold_every: 5
