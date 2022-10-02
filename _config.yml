@@ -17,8 +17,9 @@ include:
 theme: minima
 
 minima:
-  skin: dark
+  skin: solarized
   header_pages:
+    lab1.md
   author:
     name: kompotmalinowy
     email: ""
