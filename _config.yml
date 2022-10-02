@@ -13,17 +13,17 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
+# theme: minima
+# header_pages:
+#   - lab1.md
+# minima:
+#   skin: dark
+#   social_links:
+#     github: kompotmalinowy
+#     facebook: 404
+#     instagram: 404
+#     telegram: 404
 
-theme: minima
-header_pages:
-  - lab1.md
-minima:
-  skin: dark
-  social_links:
-    github: kompotmalinowy
-    facebook: 404
-    instagram: 404
-    telegram: 404
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
