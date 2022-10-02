@@ -16,6 +16,7 @@ include:
 #   syntax_highlighter: coderay
 #   syntax_highlighter_opts:
 #     line_numbers: true
+markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     block:
