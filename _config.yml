@@ -18,4 +18,5 @@ include:
 #     line_numbers: true
 kramdown:
   syntax_highlighter_opts:
-    line_numbers: true
+    block:
+      # line_numbers: true
