@@ -15,6 +15,7 @@ include:
 
 markdown: kramdown
 kramdown:
+  syntax_highlighter: rouge
 #   syntax_highlighter: coderay
   syntax_highlighter_opts:
 #     line_numbers: true
