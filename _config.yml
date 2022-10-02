@@ -12,7 +12,11 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  kramdown:
-    syntax_highlighter: coderay
-    syntax_highlighter_opts:
+# kramdown:
+#   syntax_highlighter: coderay
+#   syntax_highlighter_opts:
+#     line_numbers: true
+kramdown:
+  syntax_highlighter_opts:
+    block:
       line_numbers: true
