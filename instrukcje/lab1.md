@@ -79,5 +79,19 @@ Utwórz zmienne (nazwy zmiennych dynamicznych - camelCase) przechowujące rózne
 
 [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
 
+### Operacje na łańcuchach znaków
+Utwórz klasę `Main1.java`. Utworzyć publiczną statyczną metodę main() nic nie zwracającą. Zdefiniuj zmienną testVariable zawierającą łańcuch znaków "kiedy kot ma Alę," oraz zmienną testVariable2 zawierającą łańcuch "to Ala ma kota."
+
+Korzystając z [dokumentacji jezyka java](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html) znajdź metody i zaprezentuj ich działanie:
+- wypisując literę znajdującą się na 7 indeksie
+- wypisującą kod w standardzie Unicide litery znajdującej się na 8 indeksie
+- połącz łańcuchy znaków przechowywane w zmiennych i przypisz do zmiennej resultVar
+- sprawdź czy łańcuch znaków zawiera słowa "kot" oraz "ala".
+- sprawdź czy zdanie w zmiennej jest zakończone znakiem '.'.
+- zamień wszystkie litery w zmiennej testVariable na małe natomiast w testVariable2 na wielkie.
+- zwróć łańcuch znaków pomiędzy 3 a 7 indeksem.
+
 ### Konwersja i rzutowanie
-Utworzyć klasę `Main2.java`. Utworzyć publiczną statyczną metodę main() nic nie zwracającą. Utworzyć zmienną cGrades = 10. Rozwiń program tak by obliczał ilość stopni Farenheita na podstawie tej zmiennej według wzoru: $(°C x 1.8) + 32 = °F$
+Utworzyć klasę `Main2.java` oraz metodę main().  Utworzyć zmienną cGrades = 10. Rozwiń program tak by obliczał ilość stopni Farenheita na podstawie tej zmiennej według wzoru: $(°C * (9 / 5)) + 32 = °F$ i wypisuje tę informację w konsoli.
+
+Utworzyć klasę Main3.java oraz metodę main(). Utwórzyć program który ze zmiennej userInput zawierającej łańcuch znaków "x = 12, y = 30, z = 3" odczyta poszczególne wartości a następnie wypisze ich sumę. 
