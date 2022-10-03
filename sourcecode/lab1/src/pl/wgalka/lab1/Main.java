@@ -1,4 +1,4 @@
-package pl.wgalka.lab2;
+package pl.wgalka.lab1;
 
 public class Main {
     public static void main(String[] args) {

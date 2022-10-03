@@ -1,24 +1,31 @@
 # Lab1
-Praca w środowisku Netbeansi i InteliJ
+Praca w środowisku [Netbeansi](https://netbeans.apache.org/) i [InteliJ](https://www.jetbrains.com/idea/download/)
 
 ## Pytania
+Wyszukać w internecie opisy różnych wersji języka Java i wymienić ciekawe zmiany.
+
 Objaśnić pojęcia:
 - zmienne
 - typy zmiennych
 - instrukcje warunkowe oraz pętle
 - tablice
 - kompilator
+- IDE (Zintegrowane środowisko programistyczne, w jaki sposób ułatwia programowanie)
 - funkcja (jak wygląda/z czego się składa np. w C)
 - kiedy stosujemy return w funkcji
 
 W jaki sposób skompilować program?
+
+Co musi mieć program aby działać?
+
+Wymienić konwencje nazewnictwa zmiennych.
 
 Wymienić poznane operatory:
 - arytmetyczne
 - przypisania
 - porównania
 - logiczne
-
+- inkrementacji i dekrementacji
 
 ## Zadania
 ### Zainstalować JDK.
@@ -35,16 +42,17 @@ public class Main {
     }
 }
 ```
-### Uruchomić program.
+### Skompilować program.
+### Uruchomić program
 ### Interakcja z programem - wypisywanie informacji
 Do wypisywania łańcuchów znaków na ekranie służy funkcja: `System.out.print();` lub `System.out.println();`
 
 Zmodyfikuj program i utwórz zmienną `name` przechowującą twoje imię. Wypisz wartość na ekranie za pomocą funckji `print()`.
 
-Prymitywne typy danych:
+Prymitywne typy danych w języku Java:
 
 | typ       | ilość bitów | minimum         | maksimum              |
-|-----------| ------------| ----------------|-----------------------|
+|-----------|-------------|-----------------|-----------------------|
 | byte      | 8	          |-128             | 127	                |
 | short     | 16	      |-32,768          | 32,767                |
 | int       | 32          |-2,147,483,648   |  2,147,483,647        |
@@ -70,3 +78,6 @@ Utwórz zmienne (nazwy zmiennych dynamicznych - camelCase) przechowujące rózne
 
 
 [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
+
+### Konwersja i rzutowanie
+Utworzyć klasę `Main2.java`. Utworzyć publiczną statyczną metodę main() nic nie zwracającą. Utworzyć zmienną cGrades = 10. Rozwiń program tak by obliczał ilość stopni Farenheita na podstawie tej zmiennej według wzoru: $(°C x 1.8) + 32 = °F$
