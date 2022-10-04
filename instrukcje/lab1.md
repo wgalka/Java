@@ -5,7 +5,7 @@ Praca w środowisku [Netbeansi](https://netbeans.apache.org/) i [InteliJ](https:
 Wyszukać w internecie opisy różnych wersji języka Java i wymienić ciekawe zmiany.
 
 Objaśnić pojęcia:
-- zmienne
+- zmienna
 - typy zmiennych
 - instrukcje warunkowe oraz pętle
 - tablice
