@@ -43,12 +43,15 @@ module myModuleName{
     requires transitive package.name;
 }
 ```
-<details>
 
-    ```java
+<div id="as1">
+ ```java
     module myModuleName{
         requires transitive package.name;
     }
     ```
-
-</details>
+<button>example</button>
+</div>
+<script>
+    Document.getElementById("as1").style.visibility = "hidden";
+</script>
