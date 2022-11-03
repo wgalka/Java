@@ -44,7 +44,7 @@ module myModuleName{
 }
 ```
 
-<button id="btn1" style="visible:hidden;">example</button>
+<button id="btn1" style="visible:hidden; background-color:#001100">example</button>
 <div id="as1">
  ```java
     module myModuleName{
