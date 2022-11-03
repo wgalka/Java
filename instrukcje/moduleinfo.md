@@ -44,8 +44,8 @@ module myModuleName{
 }
 ```
 
-<button id="btn1" style="visible:hidden; background-color:#001100">example</button>
-<div id="as1">
+<button id="btn1" >example</button>
+<div id="as1" style="visible:hidden; background-color:#EEFFEE">
  ```java
     module myModuleName{
         requires transitive package.name;
