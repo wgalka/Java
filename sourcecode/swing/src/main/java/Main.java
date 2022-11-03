@@ -6,21 +6,21 @@ import java.awt.event.ActionListener;
 public class Main {
     public static void main(String[] args) {
         // Utworzenie obiektu okna głównego
-        JFrame frame = new JFrame();
+        JFrame frame = new JFrame("Moja pierwsza apliakcja");
         // Ustawienie domyślnej operacji do zamknięcia aplikacji
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setName("MainFrame");
         // Ustawienie rozmiarów okna
         frame.setSize(new Dimension(400,400));
         // Ustawienie nazwy okna
-        frame.setTitle("Moja pierwsza apliakcja");
+//        frame.setTitle("Moja pierwsza apliakcja");
 
         // Utworzenie paska menu
         JMenuBar menuBar = new JMenuBar();
         JMenu menu = new JMenu();
         // Ustawienie napisu menu
         menu.setText("file");
-
+//
         // Utworzenie opcji w menu
         JMenuItem item1 = new JMenuItem();
         // Ustawienie napisu danej opcji
@@ -39,7 +39,7 @@ public class Main {
 
         // Dodanie Menu do okna głównego
         frame.setJMenuBar(menuBar);
-
+//
         // Pobranie "pojemnika na treśc"
         Container contentPane = frame.getContentPane();
         // Utworzenie menedzera layoutu
