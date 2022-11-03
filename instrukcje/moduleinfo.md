@@ -44,14 +44,15 @@ module myModuleName{
 }
 ```
 
+<button id="btn1">example</button>
 <div id="as1">
  ```java
     module myModuleName{
         requires transitive package.name;
     }
-    ```
-<button>example</button>
+```
 </div>
 <script>
-    document.getElementById("as1").style.visibility = "hidden";
+    document.getElementById("btn1").addEventListener("click", document.getElementById("as1").style.visibility = "hidden";);
+    
 </script>
