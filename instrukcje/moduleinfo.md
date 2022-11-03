@@ -53,5 +53,5 @@ module myModuleName{
 <button>example</button>
 </div>
 <script>
-    Document.getElementById("as1").style.visibility = "hidden";
+    document.getElementById("as1").style.visibility = "hidden";
 </script>
