@@ -53,6 +53,6 @@ module myModuleName{
 ```
 </div>
 <script>
-    document.getElementById("btn1").addEventListener("click", document.getElementById("as1").style.visibility = "hidden";);
+    document.getElementById("btn1").addEventListener("click", {document.getElementById("as1").style.visibility = "hidden";});
     
 </script>
