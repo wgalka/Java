@@ -44,7 +44,6 @@ module myModuleName{
 }
 ```
 <details>
-    <summary>Example</summary>
 
     ```java
     module myModuleName{
