@@ -44,7 +44,7 @@ module myModuleName{
 }
 ```
 
-<button id="btn1">example</button>
+<button id="btn1" style="visible:hidden;">example</button>
 <div id="as1">
  ```java
     module myModuleName{
@@ -54,7 +54,7 @@ module myModuleName{
 </div>
 <script>
     function myFunction() {
-  document.getElementById("as1").style.visibility = "hidden";
+  document.getElementById("as1").style.visibility = "visible";
 }
     document.getElementById("btn1").addEventListener("click", myFunction);
     
