@@ -6,4 +6,4 @@
 - [Lab3](https://drive.google.com/drive/folders/13Irovzc6uXLjC1S7kW5AkrOuE46YY5nj?usp=sharing)
 - [Lab4](https://drive.google.com/drive/folders/1FFYZgnjtKi3UBg03OrqGQYYen-LeNhTv?usp=sharing)
 
-<!-- - [Lab5](https://drive.google.com/drive/folders/18HAuS68noRDc7X3LBsF8n4xjs3Tt7ubc?usp=sharing) -->
+- [Lab5](https://drive.google.com/drive/folders/18HAuS68noRDc7X3LBsF8n4xjs3Tt7ubc?usp=sharing)
