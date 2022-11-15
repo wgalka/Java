@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Main {
+package com.main.app;
+
+public class Main {
 }

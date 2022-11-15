@@ -44,18 +44,55 @@ module myModuleName{
 }
 ```
 
-<button id="btn1" >example</button>
-<div id="as1" style="visibility:hidden; background-color:#EEFFEE">
- ```java
-    module myModuleName{
-        requires transitive package.name;
-    }
-```
-</div>
-<script>
-    function myFunction() {
-  document.getElementById("as1").style.visibility = "visible";
+### Exports
+
+Aby umożliwić dostęp do publicznych skłądowych jednego z pakietów należy użyć słówka kluczowego `exports`
+
+```java
+module myModuleName{
+    exports package.name;
 }
-    document.getElementById("btn1").addEventListener("click", myFunction);
-    
-</script>
+```
+
+Aby umożliwić dostęp do api do składowych pakietu wybranemu pakietowi używa się `exports to`
+
+```java
+module myModuleName{
+    exports package.name to package.which.use.our.api;
+}
+```
+
+### Uses
+
+```java
+module my.module {
+    uses class.name;
+}
+```
+
+### Provide
+
+```java
+module my.module {
+    provides MyInterface with MyInterfaceImpl;
+}
+```
+
+### Opens
+
+Pozwala na dostęp do pól prywatnych w klasach.
+
+```java
+module my.module {
+  opens com.my.package;
+}
+```
+
+lub tylko dla wybranych modułów
+
+```java
+module my.module {
+    opens com.my.package to moduleOne, moduleTwo, etc.;
+}
+```
+
