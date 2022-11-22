@@ -107,3 +107,8 @@ public class DateAdapter extends XmlAdapter<String, LocalDate> {
 ```
 
 
+## Przykład
+
+
+
+
