@@ -55,7 +55,7 @@ import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class TableViewTest extends Application {
+public class TableViewTest50rekordow extends Application {
     private final static int rowsPerPage = 10;
     FileChooser fileChooser = new FileChooser();
     private Pagination pagination;

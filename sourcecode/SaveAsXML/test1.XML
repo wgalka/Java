@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Pracownik>
+    <name>Miłosz</name>
+    <surname>Rudolf</surname>
+    <gender>77</gender>
+    <profession>Mechanik</profession>
+    <birthdate>2020-08-21</birthdate>
+    <professionally_active>false</professionally_active>
+</Pracownik>

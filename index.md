@@ -8,3 +8,4 @@
 
 - [Lab5](https://drive.google.com/drive/folders/18HAuS68noRDc7X3LBsF8n4xjs3Tt7ubc?usp=sharing)
 - [Lab6](https://drive.google.com/drive/folders/1BnhG87zhPeAaunJ1mvuYoPD4Tq7COag3?usp=sharing)
+    - [JAXB](instrukcje/JAXB.html)

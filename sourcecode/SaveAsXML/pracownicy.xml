@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pracownicy>
+    <Pracownik>
+        <imie>Jan</imie>
+        <nazwisko>Kowalski</nazwisko>
+        <plec>M</plec>
+        <zawod>Stolarz</zawod>
+        <dataUrodzenia>2020-02-10</dataUrodzenia>
+        <aktywnyZawodowo>false</aktywnyZawodowo>
+    </Pracownik>
+    <Pracownik>
+        <imie>Joanna</imie>
+        <nazwisko>Rakowska</nazwisko>
+        <plec>K</plec>
+        <zawod>Piekarz</zawod>
+        <dataUrodzenia>2020-09-12</dataUrodzenia>
+        <aktywnyZawodowo>true</aktywnyZawodowo>
+    </Pracownik>
+    <Pracownik>
+        <imie>Stefan</imie>
+        <nazwisko>Burczymucha</nazwisko>
+        <plec>M</plec>
+        <zawod>Mechanik</zawod>
+        <dataUrodzenia>2020-02-10</dataUrodzenia>
+        <aktywnyZawodowo>false</aktywnyZawodowo>
+    </Pracownik>
+    <Pracownik>
+        <imie>Jan</imie>
+        <nazwisko>Czekański</nazwisko>
+        <plec>M</plec>
+        <zawod>Ślusarz</zawod>
+        <dataUrodzenia>2020-09-12</dataUrodzenia>
+        <aktywnyZawodowo>true</aktywnyZawodowo>
+    </Pracownik>
+    <Pracownik>
+        <imie>Rafał</imie>
+        <nazwisko>Brudolf</nazwisko>
+        <plec>M</plec>
+        <zawod>Ślusarz</zawod>
+        <dataUrodzenia>2020-03-18</dataUrodzenia>
+        <aktywnyZawodowo>true</aktywnyZawodowo>
+    </Pracownik>
+</Pracownicy>
