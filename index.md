@@ -10,3 +10,4 @@
 - [Lab6](https://drive.google.com/drive/folders/1BnhG87zhPeAaunJ1mvuYoPD4Tq7COag3?usp=sharing)
     - [JAXB](instrukcje/JAXB.html)
 - [Lab7](https://drive.google.com/drive/folders/1PsftpqD4L1RTVno2KLE84Dzc7WVr3EKz?usp=sharing)
+- [Lab8](https://drive.google.com/drive/folders/1mF4AaAUSJYVZjlMO6-XCdNgiFZff8M6p?usp=sharing)
