@@ -14,3 +14,4 @@
     - [Hibernate](instrukcje/hibernate.html)
 - [Lab9](https://drive.google.com/drive/folders/1R0n3v9o6lHfNeifwtGdziErsRVXzHvWv?usp=sharing)
 - [Lab10](https://cs.lazysolutions.pl/instructions/lab1.html)
+- [Lab11](https://cs.lazysolutions.pl/instructions/lab2.html)
