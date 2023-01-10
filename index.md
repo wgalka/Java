@@ -13,5 +13,9 @@
 - [Lab8](https://drive.google.com/drive/folders/1mF4AaAUSJYVZjlMO6-XCdNgiFZff8M6p?usp=sharing)
     - [Hibernate](instrukcje/hibernate.html)
 - [Lab9](https://drive.google.com/drive/folders/1R0n3v9o6lHfNeifwtGdziErsRVXzHvWv?usp=sharing)
-- [Lab10](https://cs.lazysolutions.pl/instructions/lab1.html)
-- [Lab11](https://cs.lazysolutions.pl/instructions/lab2.html)
+## C#
+- [Lab10](https://drive.google.com/drive/folders/1A-v2o0FtfyMzBj86u83BmgAf7ot5WrzZ?usp=sharing)
+- [Lab11](https://drive.google.com/drive/folders/1PCFr617wDqN5GFrWlOGcEyPK5fvEyP_7?usp=sharing)
+
+- [*Lab10*](https://cs.lazysolutions.pl/instructions/lab1.html)
+- [*Lab11*](https://cs.lazysolutions.pl/instructions/lab2.html)
