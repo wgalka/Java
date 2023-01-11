@@ -57,6 +57,12 @@ Następnie proces tworzenia artefaktów należy wykonać od nowa wskazując now�
 - [Launch4j](https://launch4j.sourceforge.net/)
 - [Jlink](https://maven.apache.org/plugins/maven-jlink-plugin/usage.html)
 
+### Tworzenie pliku exe za pomocą Launch4j
+
+[Launch4j plik instalacyjny](https://sourceforge.net/projects/launch4j/)
+
+
+
 ## Na co zwrócićuwagę:
 - ścieżki w aplikacji - apliakcja powinna działać w dowolnej lokalizacji
 - apliakcja powinna mieć wskazane miejsce startu - konkretną metodę main
