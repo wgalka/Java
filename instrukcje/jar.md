@@ -10,7 +10,7 @@ Innym rozwiązaniem problemu wdrożenia plikacji są archiwa:
  - [Apache Maven JAR Plugin](https://maven.apache.org/plugins/maven-jar-plugin/)
  - [Apache Maven Shade Plugin](https://maven.apache.org/plugins/maven-shade-plugin/)
 
- ### Tworzenie pliku Jar w Intelij
+### Tworzenie pliku Jar w Intelij
  
  Należy wybrać opcję files > project structure
 
@@ -53,7 +53,7 @@ Następnie proces tworzenia artefaktów należy wykonać od nowa wskazując now�
 
 </details>
 
- ## tworzenie pliku wykonywalnego z pliku .jar
+## tworzenie pliku wykonywalnego z pliku .jar
 - [Launch4j](https://launch4j.sourceforge.net/)
 - [Jlink](https://maven.apache.org/plugins/maven-jlink-plugin/usage.html)
 
