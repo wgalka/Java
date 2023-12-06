@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Adres do bazy danych C:\.. należy zastapić pełną ścieżką do bazy danych znajdującej się na komputerze  -->
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/test321?createDatabaseIfNotExist=true</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password"></property>
+        <!-- Opcja będzie wypisywać zapytania SQL w konsoli -->
+        <property name="hibernate.show_sql">true</property>
+        <!-- scieżka do klasy sterownika -->
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <!-- Dialekt bazy danych - silniki bazodanowe różnią się nieznacznie składnią, typami danych, funkcjami -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <!-- Opcja umożliwia zdefiniowanie zachowania przy łączeniu z bazą danych. create-drop usunie tabele a następnie utworzy je na nowo -->
+        <property name="hibernate.hbm2ddl.auto">create-drop</property>
+
+        <!-- Wskazanie klas mapujących tabele w bazie danych na obiekty java. -->
+        <mapping class="com.example.hibernate.Models.Powiat"/>
+
+    </session-factory>
+</hibernate-configuration>
